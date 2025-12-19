@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -132,7 +132,6 @@ export default function LandingPage() {
           useInvertedBackground="noInvert"
           usePrimaryButtonImage={false}
           containerClassName="py-16"
-          titleClassName="text-4xl font-serif mb-4"
         />
       </div>
 
