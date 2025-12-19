@@ -180,7 +180,7 @@ export default function LandingPage() {
           variant="card"
           textboxLayout="default"
           useInvertedBackground="noInvert"
-          titleClassName="text-4xl font-serif mb-4"
+          testimonialTitleClassName="text-4xl font-serif mb-4"
           containerClassName="py-16"
         />
       </div>
@@ -205,7 +205,7 @@ export default function LandingPage() {
           speed={50}
           topMarqueeDirection="left"
           containerClassName="py-16"
-          titleClassName="text-3xl font-serif text-center mb-6"
+          textBoxTitleClassName="text-3xl font-serif text-center mb-6"
         />
       </div>
 
